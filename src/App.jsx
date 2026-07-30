@@ -56,7 +56,7 @@ export default function App() {
 
   return (
     <div
-      className={`min-h-screen flex justify-center p-8 transition-all duration-300
+      className={`min-h-screen flex justify-center p-10g transition-all duration-300
       ${
         theme === "light"
           ? "bg-stone-50 text-black"
